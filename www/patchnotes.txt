@@ -1,0 +1,72 @@
+7/14/2023, 10pm EST/EDT.
+
+A lot has happened, starting with this feature being added. Here is a list of newly added as well as planned features.
+Firstly, I am bringing all the features from my other game, Final Arc, over to TOA. Below are those features, for the 
+most part they've all already been added.
+
+
+Current:
+
+* Quick Shop, a shop menu that you can enable and disable ouside of battle at any time. This shop will contain just about
+every item in the game with the exception of Quest Items. They'll all be the same price as if you were to buy or sell them
+in any other shop within the game so make sure you have the money ready. This feature is limited since shop items do not 
+refresh, I shall make it so the shop uses a conditional branch setup where it resets based on a set variable that is added
+as you progress.
+
+* Translocate, as you visit each available location throughout the game you may wish to revisit that location without having
+to physically walk hundreds or even thousands of miles. With this feature, which can be accessed from the puase menu, you
+may fast travel to each location you've been to and these locations start you at the entrance to these maps. Don't worry
+to much though, as each location is unlocked as you transfer locations and or enter that location.
+
+* Year Book & Clock, these two features add two things to the game. Year Book adds a real life calandar to the game that will
+show special holidays and events in the world of the game. Meanwhile, the Clock adds a Real life clock to the map. This means
+whatever time, day and year it is in real life it will be displayed in real time as you play the game.
+
+* Extras, this is a menu option I've added with simple functionality. As you purchase DLC or new Episodes, you will have the
+option of activating them in this menu. Its a simple CE (Common Event) using Text, Choices, Conditional Branches and 
+Variables in order to give you new content that is technically already in the game but is unavailable to the player.
+Sometimes, DLC may be nothing more than a simple Starter Pack or a Side Quest.
+
+
+Planned:
+
+* Fishing, while technically already added to the game by Default...I wish to expand on the feature. When I get around to
+revamping this feature there are some things you can certainly expect.
+
+1: Fishing spots will require different Rods but there won't be a bait requirement.
+2: There will be a ton more options for the types of Fish you can actually catch as well as certain Fish can only be caught
+in certain locations.
+3: Fish will be able to be sold for money, eaten or used as an ingredient for meal preparation.
+
+* Cooking, eventually I plan on adding the ability to cook food or even entire meals. In addition to this, I may even add
+recipes to the game that you can buy in shops or discover throughout the world. To cook, all you need is a fire and the
+correct ingredients. You can buy everything you need to be able to cook in stores all through out the world or within
+The Fresh Onion, a shop that will work the same way Quick Shop does.
+
+* Alignment System, your choices affect the world around you as well as how NPCs treat you. Such as being evil might make 
+prices go up out of fear while being good may make prices drop to an all time low.
+
+* Friendship & Marriage, self explainatory...but I'll elaborate anyways. Similar to Alignment, as you gain frienship with
+NPCs you'll open up new possibilities such as new dialogue or even new Character Stories and if you get their friendship 
+high enough you may even be able to marry them. Unfortunately, you may only be married to one Character. I may even see if
+such a feature can be used with other players because while TOA isn't an MMO I'd like to maintain the feeling of an MMO
+like environment.
+
+* PvP, Sadly you may not get this feature for a really long time as the multiplayer plugin I use currently doesn't
+support it without the use of AABS Z, we were supposed to of had PvP by now...but sadly we must wait a while longer.
+
+* Day & Night Cycle, a full day and night cycle….that’s really all there is to this one.
+
+* Camping, all throughout the world as you explore it you’ll come across camps that you can interact with. 
+Using the tent will restore your health and make you well rested while the campfire can be used to cook food.
+
+* Classes & Class Change Menu, in the original game long before the many reboots I had 8 playable classes to
+choose from that could be changed at a special wardrobe in each major Town, City and Village...well I am
+bring back the class system for TOA and rather than a wardrobe you'll change classes straight from the pause
+menu. From now on, certain gear may require a specific class in order to be used.
+
+
+
+7/19/2023, 12:39PM EST/EDT:
+
+Not very many changes, I had managed to produce a demo but certain features weren't working so I had to make some bugfixes.
